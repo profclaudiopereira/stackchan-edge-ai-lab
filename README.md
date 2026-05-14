@@ -1,3 +1,5 @@
+![StackChan Edge AI Lab](assets/banners/stackchan-edge-ai-lab-overview.png)
+
 # stackchan-edge-ai-lab
 
 Conversational Edge AI experiments using StackChan, Arduino UNO Q, OpenAI and Embedded Linux.
